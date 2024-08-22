@@ -1,0 +1,20 @@
+{
+  "name": "horizon",
+  "version": "1.0.0",
+  "description": "jeste pour s'amuser",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "horizon",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^24.2.0",
+    "electron-packager": "^17.1.1"
+  },
+  "dependencies": {
+    "php-server": "^1.0.0"
+  }
+}
